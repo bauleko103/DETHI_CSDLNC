@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ADBTeam2111COMP104102_DB4O.Class
+namespace ADBTeam2111COMP104102_DB4O.EF
 {
-    public class MonHoc
+    class MonHoc
     {
     }
 }

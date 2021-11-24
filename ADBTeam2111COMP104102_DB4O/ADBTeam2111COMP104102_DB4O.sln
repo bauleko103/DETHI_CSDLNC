@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADBTeam2111COMP104102_DB4O", "ADBTeam2111COMP104102_DB4O\ADBTeam2111COMP104102_DB4O.csproj", "{55B323EE-01DF-402D-A454-178EC61BFA58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADBTeam2111COMP104102_DB4O", "ADBTeam2111COMP104102_DB4O\ADBTeam2111COMP104102_DB4O.csproj", "{0C3E139B-97F9-4B43-AF28-8CC4BA885837}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{55B323EE-01DF-402D-A454-178EC61BFA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{55B323EE-01DF-402D-A454-178EC61BFA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{55B323EE-01DF-402D-A454-178EC61BFA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{55B323EE-01DF-402D-A454-178EC61BFA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3E139B-97F9-4B43-AF28-8CC4BA885837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3E139B-97F9-4B43-AF28-8CC4BA885837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3E139B-97F9-4B43-AF28-8CC4BA885837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3E139B-97F9-4B43-AF28-8CC4BA885837}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6E2B32C2-47EC-435B-B564-271431B30882}
+		SolutionGuid = {C11FC6F4-B82F-484F-AC89-1D15A70D8FD7}
 	EndGlobalSection
 EndGlobal

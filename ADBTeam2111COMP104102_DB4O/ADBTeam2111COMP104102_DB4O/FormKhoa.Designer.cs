@@ -1,7 +1,7 @@
 ﻿
 namespace ADBTeam2111COMP104102_DB4O
 {
-    partial class Khoa
+    partial class FormKhoa
     {
         /// <summary>
         /// Required designer variable.
@@ -32,7 +32,7 @@ namespace ADBTeam2111COMP104102_DB4O
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Khoa";
+            this.Text = "FormKhoa";
         }
 
         #endregion

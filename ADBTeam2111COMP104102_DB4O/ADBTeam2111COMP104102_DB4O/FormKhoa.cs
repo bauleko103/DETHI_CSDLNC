@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ADBTeam2111COMP104102_DB4O
 {
-    public partial class MonHocForm : Form
+    public partial class FormKhoa : Form
     {
-        public MonHocForm()
+        public FormKhoa()
         {
             InitializeComponent();
         }
