@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{55B323EE-01DF-402D-A454-178EC61BFA58}</ProjectGuid>
+    <ProjectGuid>{0C3E139B-97F9-4B43-AF28-8CC4BA885837}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>ADBTeam2111COMP104102_DB4O</RootNamespace>
     <AssemblyName>ADBTeam2111COMP104102_DB4O</AssemblyName>
