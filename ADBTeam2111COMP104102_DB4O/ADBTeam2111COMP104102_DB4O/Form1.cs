@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ADBTeam01_DB4O
+namespace ADBTeam2111COMP104102_DB4O
 {
     public partial class Form1 : Form
     {

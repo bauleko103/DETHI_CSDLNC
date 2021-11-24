@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ADBTeam01_DB4O")]
+[assembly: AssemblyTitle("ADBTeam2111COMP104102_DB4O")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ADBTeam01_DB4O")]
+[assembly: AssemblyProduct("ADBTeam2111COMP104102_DB4O")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("11ad017c-93a5-49a8-ba4a-3228380cd0d1")]
+[assembly: Guid("55b323ee-01df-402d-a454-178ec61bfa58")]
 
 // Version information for an assembly consists of the following four values:
 //

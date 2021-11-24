@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace ADBTeam01_DB4O.Properties
+namespace ADBTeam2111COMP104102_DB4O.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -43,7 +43,7 @@ namespace ADBTeam01_DB4O.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ADBTeam01_DB4O.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ADBTeam2111COMP104102_DB4O.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

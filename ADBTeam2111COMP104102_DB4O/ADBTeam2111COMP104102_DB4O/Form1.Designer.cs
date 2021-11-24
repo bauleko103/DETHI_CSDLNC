@@ -1,5 +1,5 @@
 ﻿
-namespace ADBTeam01_DB4O
+namespace ADBTeam2111COMP104102_DB4O
 {
     partial class Form1
     {
